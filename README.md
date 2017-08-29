@@ -1,2 +1,1 @@
-# Deep_Learning_Nano_Degree
-Projects covered in the nano degree program
+Bike Sharing Problem, Where the Owner should get maximum profit 
